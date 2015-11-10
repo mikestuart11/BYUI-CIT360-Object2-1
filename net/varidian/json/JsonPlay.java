@@ -104,19 +104,7 @@ public class JsonPlay {
                 e.printStackTrace();
                 return;
             }
-
-
-//test
-
-
-
-            int var7 = 7;
-
-
-
-
-
-
+        
     }
 
 
