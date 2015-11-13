@@ -32,7 +32,7 @@ public class ViewPlay extends JFrame {
     }
 
     public int getNumber2(){
-        return Integer.parseInt(number1.getText());
+        return Integer.parseInt(number2.getText());
     }
 
     public void setCalcSolution(int solution){
